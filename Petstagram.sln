@@ -1,0 +1,49 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 25.0.1706.7
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Petstagram.Domain", "Petstagram.Domain\Petstagram.Domain.csproj", "{59A6AD2E-EC81-48DF-8941-A27B23B21E1C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Petstagram.Application", "Petstagram.Application\Petstagram.Application.csproj", "{3D1D113C-5B22-4FEE-AEFD-E661E3665236}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Petstagram.Infrastructure", "Petstagram.Infrastructure\Petstagram.Infrastructure.csproj", "{7A5E5C31-AE5E-4319-A5D2-A6DE5FE682A0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Petstagram.Tests", "Petstagram.Tests\Petstagram.Tests.csproj", "{44AAAFA1-91C0-45AD-A91D-76EF5522ECE3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Petstagram.API", "Petstagram.API\Petstagram.API.csproj", "{DBDE9FC4-ADA2-4C96-A12B-50051356DAFA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{59A6AD2E-EC81-48DF-8941-A27B23B21E1C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{59A6AD2E-EC81-48DF-8941-A27B23B21E1C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{59A6AD2E-EC81-48DF-8941-A27B23B21E1C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{59A6AD2E-EC81-48DF-8941-A27B23B21E1C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3D1D113C-5B22-4FEE-AEFD-E661E3665236}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3D1D113C-5B22-4FEE-AEFD-E661E3665236}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3D1D113C-5B22-4FEE-AEFD-E661E3665236}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3D1D113C-5B22-4FEE-AEFD-E661E3665236}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7A5E5C31-AE5E-4319-A5D2-A6DE5FE682A0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7A5E5C31-AE5E-4319-A5D2-A6DE5FE682A0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7A5E5C31-AE5E-4319-A5D2-A6DE5FE682A0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7A5E5C31-AE5E-4319-A5D2-A6DE5FE682A0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{44AAAFA1-91C0-45AD-A91D-76EF5522ECE3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{44AAAFA1-91C0-45AD-A91D-76EF5522ECE3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{44AAAFA1-91C0-45AD-A91D-76EF5522ECE3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{44AAAFA1-91C0-45AD-A91D-76EF5522ECE3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DBDE9FC4-ADA2-4C96-A12B-50051356DAFA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DBDE9FC4-ADA2-4C96-A12B-50051356DAFA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DBDE9FC4-ADA2-4C96-A12B-50051356DAFA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DBDE9FC4-ADA2-4C96-A12B-50051356DAFA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {11828FD9-CFF0-4DB6-8B88-085FDA790D3A}
+	EndGlobalSection
+EndGlobal
